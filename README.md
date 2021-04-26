@@ -1,7 +1,8 @@
 # Hi there 👋
 
-Beijing Institute of Techonology
-LvWencheng
+#### Beijing Institute of Techonology
+
+#### LvWencheng
 
 <!--
 **WenchengLv/WenchengLv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
